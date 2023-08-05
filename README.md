@@ -1,2 +1,3 @@
 # js-playground-browser
-This just serves static html page with scripts.js which you can modify to practice some vanilla frontend js.
+
+This just serves static html page with scripts.js which you can modify to practice some vanilla frontend js. It has hot reload on changes feature.
