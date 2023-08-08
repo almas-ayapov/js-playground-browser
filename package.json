@@ -2,15 +2,12 @@
   "name": "codespaces-blank",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/server.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --watch-path=./src ."
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-static": "^0.7.11"
-  }
+  "license": "ISC"
 }
